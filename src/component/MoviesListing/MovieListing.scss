@@ -1,0 +1,36 @@
+@import '../../common/colors.scss';
+
+.allProduct {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+     margin: 2em auto;
+    grid-row-gap: 15px;
+}
+
+
+.each {
+    width: 300px;
+    height: 450px;
+    color: $font-primary;
+    background-color: $secondary-color;
+}
+.down p {
+    color:yellow;
+}
+
+.cate span{
+    color:aquamarine;
+}
+.cate {
+    padding-bottom: 1rem;
+}
+.down{
+    padding: 10px 20px;
+}
+
+.image img {
+    width: 300px;
+    height: 300px;
+   
+}

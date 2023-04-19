@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../src/component/MovieCard/MovieCard.scss"
+    ],
+    "names": [],
+    "file": "MovieCard.css"
+}
